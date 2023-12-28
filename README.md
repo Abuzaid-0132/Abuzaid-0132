@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abuzaid-0132
+- 👋 Hi, I’m Abuzaid
 - 👀 I’m interested in a Software engineering role (intern/full-time)
 - 🌱 I’m currently learning C++, DSA , React.js with Node.js
 - 💞️ I’m looking to collaborate on some projects.
