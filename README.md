@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abuzaid
-- 👀 I’m interested in a Software engineering role (intern/full-time)
-- 🌱 I’m currently learning C++, DSA , React.js with Node.js
+- 👋 Hi, I’m Abuzaid.
+- 👀 I’m interested in a Software engineering role (intern/full-time).
+- 🌱 I’m good @ C++/Java, DSA & Web development.
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me E-mail: mohdabuzaid0134@gmail.com
 
